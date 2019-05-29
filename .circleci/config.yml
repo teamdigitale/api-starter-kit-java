@@ -28,7 +28,7 @@ jobs:
     - restore_cache:
         key: *key_cache
 
-    - run: sudo apt -y update && apt -y install tox make
+    - run: sudo apt -y update && sudo apt -y install tox make
 
     - run: make yaml
 
@@ -56,7 +56,7 @@ jobs:
     - restore_cache:
         key: *key_cache
 
-    - run: sudo apt -y update && apt -y install tox make
+    - run: sudo apt -y update && sudo apt -y install tox make
 
     - run: make yaml
 
