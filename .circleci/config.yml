@@ -10,7 +10,7 @@
 #       support caching.
 #
 anchors:
-- key_cache: &key_cache v1-cache-{{ checksum "pom.xml" }}
+- key_cache: &key_cache v1-cache-{{ checksum "java-jaxrs/pom.xml" }}
 
 version: 2
 jobs:
