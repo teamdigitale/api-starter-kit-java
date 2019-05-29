@@ -1,6 +1,9 @@
 # Starter kit per la pubblicazione di API interoperabili in Java
 
-Questo repository contiene il template di un'API interoperabile scritta in Java
+Questo repository contiene il template di un'API interoperabile scritta in Java.
+
+[![CircleCI](https://circleci.com/gh/teamdigitale/api-starter-kit-java.svg?style=svg)](https://circleci.com/gh/teamdigitale/api-starter-kit-java)
+
 
 ## Contenuto
 
@@ -67,3 +70,8 @@ docker
 ```
 
 
+### Test
+
+E' possibile testare in locale tramite circleci, con:
+
+        circleci build
