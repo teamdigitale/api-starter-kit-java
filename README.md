@@ -1,9 +1,11 @@
 # Starter kit per la pubblicazione di API interoperabili in Java
 
-Questo repository contiene il template di un'API interoperabile scritta in Java.
-
 [![CircleCI](https://circleci.com/gh/teamdigitale/api-starter-kit-java.svg?style=svg)](https://circleci.com/gh/teamdigitale/api-starter-kit-java)
+[![Join the #api channel](https://img.shields.io/badge/Slack-%23api-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/CDKBYTG74)
+[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
+[![API on forum.italia.it](https://img.shields.io/badge/Forum-interoperabilità-blue.svg)](https://forum.italia.it/c/interoperabilita)
 
+Questo repository contiene il template di un'API interoperabile scritta in Java.
 
 ## Contenuto
 
