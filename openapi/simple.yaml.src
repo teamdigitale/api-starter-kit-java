@@ -91,8 +91,8 @@ servers:
   - description: Test server
     url: https://api.example.com/datetime/v1
   - description: Development server
-    url: https://localhost:8443/datetime/v1
-
+    url: /datetime/v1
+    x-sandbox: true
 
 #
 # Qui vanno tutti i path.
